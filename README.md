@@ -1,13 +1,6 @@
 Tiago Mota👨
 
 
-
-   
-
-
-
-
-
 Desenvolvedor Front-End | Universitário📑
 
 <p>Sou estudante em Ánalises e Desenvolvimento de Sistemas. </p>
