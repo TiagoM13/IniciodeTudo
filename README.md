@@ -1,6 +1,6 @@
-Tiago Mota👨
+<h1>Tiago Mota👨</h1>
 
-Desenvolvedor Front-End | Universitário📑
+<h4>Desenvolvedor Front-End | Universitário📑</h4>
 
 <p>Sou estudante em Ánalises e Desenvolvimento de Sistemas. </p>
 
