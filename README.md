@@ -6,7 +6,7 @@
 
 <p>Aprimorando cada vez mais meus conhecimentos sobre cada área  de desenvolvimento., buscando novos desafios e em constante aprendizagem.</p>
 
-Tenho experiência com:⌨️
+Tenho experiência com:
 
 <ul>
 
